@@ -12,13 +12,13 @@ Plataforma de criação de descontos fictícios
 
 Fluxo novo desconto e Edição
 
-<img src='Readme/appGif.gif' width='150' >
+<img src='readme/appGif.gif' width='150' >
 
 Algumas Imagens
 
-<img src='Readme/images/image (1).jpeg' width='150' >  <img src='Readme/images/image (2).jpeg' width='150' > <img src='Readme/images/image (3).jpeg' width='150' > 
+<img src='readme/images/image (1).jpeg' width='150' >  <img src='readme/images/image (2).jpeg' width='150' > <img src='readme/images/image (3).jpeg' width='150' > 
 
-<img src='Readme/images/image (4).jpeg' width='150' > 
+<img src='readme/images/image (4).jpeg' width='150' > 
 
 
 ##Dicas de Uso
